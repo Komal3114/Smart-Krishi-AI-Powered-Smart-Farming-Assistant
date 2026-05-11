@@ -54,7 +54,7 @@ ml_dtypes==0.5.3
 msgpack==1.1.2
 multidict==6.7.0
 namex==0.1.0
-numpy==2.3.4
+numpy==1.26.4
 opt_einsum==3.4.0
 optree==0.17.0
 packaging==25.0
@@ -92,7 +92,7 @@ supabase-auth==2.23.2
 supabase-functions==2.23.2
 tensorboard==2.20.0
 tensorboard-data-server==0.7.2
-tensorflow==2.20.0
+tensorflow==2.16.1
 termcolor==3.1.0
 threadpoolctl==3.6.0
 typing-inspection==0.4.2
