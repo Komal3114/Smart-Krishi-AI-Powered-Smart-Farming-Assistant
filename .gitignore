@@ -1,0 +1,21 @@
+# Python / Flask Backend
+smart_krishi_backend/smart_krishi_env/
+smart_krishi_backend/__pycache__/
+smart_krishi_backend/*.pyc
+smart_krishi_backend/.env
+smart_krishi_backend/firebase-service-account.json
+
+# React / Vite Frontend
+smart_krishi_frontend/node_modules/
+smart_krishi_frontend/dist/
+smart_krishi_frontend/.env*
+smart_krishi_frontend/.DS_Store
+smart_krishi_frontend/npm-debug.log*
+smart_krishi_frontend/yarn-debug.log*
+smart_krishi_frontend/yarn-error.log*
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
