@@ -1,12 +1,12 @@
 # 🌿 Smart Krishi - Your Smart Farming Assistant
 
-[![Deployment](https://img.shields.io/badge/Frontend-Vercel-brightgreen)](YOUR_VERCEL_FRONTEND_URL)
-[![Deployment](https://img.shields.io/badge/Backend-Render-blue)](YOUR_RENDER_BACKEND_URL)
+[![Deployment](https://img.shields.io/badge/Frontend-Vercel-brightgreen)](https://smart-krishi-app.vercel.app)
+
+[![Deployment](https://img.shields.io/badge/Backend-Render-blue)](https://smart-krishi-backend-b16p.onrender.com)
 
 Smart Krishi is an AI-powered web application designed to assist farmers by providing tools for crop disease detection, intelligent recommendations for crops and fertilizers, real-time weather information, and an AI chatbot for agricultural queries.
 
 **[>> Visit the Live Application <<](https://smart-krishi-app.vercel.app/)**
-
 ---
 
 ## ✨ Features
