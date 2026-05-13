@@ -6,7 +6,7 @@
 
 Smart Krishi is an AI-powered web application designed to assist farmers by providing tools for crop disease detection, intelligent recommendations for crops and fertilizers, real-time weather information, and an AI chatbot for agricultural queries.
 
-**[>> Visit the Live Application <<](https://smart-krishi-app.vercel.app/)**
+**[>> Visit the Live Application <<](https://smart-krishi-ai-powered-smart-farming-assistant-qxczs1q88.vercel.app/)**
 ---
 
 ## ✨ Features
